@@ -15,6 +15,6 @@ Features include:
 ## Pictures
 
 
-![](Mapic images/main.png)
+![Main Search Page](images/main.png)
 
-![](Mapic images/login.png)
+![Working Login Page](images/login.png)
