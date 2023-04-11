@@ -1,6 +1,6 @@
 # MaPic
 
-Mapic is a social photo-sharing app that uses Google Vision to help users FiND photo-shoot locations. 
+Mapic is a social photo-sharing app that uses Google Vision to help users find photo-shoot locations. 
 
 Features include: 
 
